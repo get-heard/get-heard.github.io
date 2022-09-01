@@ -1,3 +1,2 @@
 # get-heard.github.io
-Website for getheard.co.uk
-
+Website for http://www.getheard.co.uk/

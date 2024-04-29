@@ -1,2 +1,2 @@
 # get-heard.github.io
-Landing page getheard.io
+Landing page for getheard.io
